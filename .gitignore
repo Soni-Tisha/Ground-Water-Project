@@ -25,3 +25,8 @@ Thumbs.db
 node_modules/
 dist/
 build/
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel/
+frontend/dist/
+frontend/build/
